@@ -16,3 +16,24 @@ I am ready to make every effort to master the IT sphere.
 I strive for self-improvement.
 
 ---
+
+### Code example:
+
+  function FindCube(num1, num2){<br>
+    if((num1 % 2 ==0) && (num2 % 2 ==0))<br>
+    {<br>
+      console.log(It is cube);<br>
+    }<br>
+    else<br>
+    {<br>
+    console.log(it is not cube);<br>
+    }<br>
+  }<br>
+  
+---
+  
+### Work experience:
+
+  *Nothing yet...*.
+  
+---
