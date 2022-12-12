@@ -37,3 +37,16 @@ I strive for self-improvement.
   *Nothing yet...*.
   
 ---
+
+### Education:
+
+  1. HTML, CSS, JS video courses on YouTube.
+  2. FreeCodeCamp Legacy Responsive Web Design.
+  3. EPAM UpSkill IT Fundamentals.
+
+---
+
+### Language:
+
+- Ukrainian Native.
+- English A2.
